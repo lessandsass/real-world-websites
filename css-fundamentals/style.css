@@ -58,3 +58,11 @@ li {
     font-weight: bold;
 }
 
+/* ul {
+    list-style: none;
+} */
+
+.related {
+    list-style: none;
+}
+
