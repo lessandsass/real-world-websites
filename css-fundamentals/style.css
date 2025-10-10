@@ -81,3 +81,16 @@ aside {
     background-color: #f7f7f7;
     border: 5px solid #1098ad;
 }
+
+/* .first-li {
+    font-weight: bold;
+} */
+
+li:first-child {
+    font-weight: bold;
+}
+
+li:last-child {
+    font-style: italic;
+}
+
