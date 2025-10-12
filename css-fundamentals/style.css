@@ -1,15 +1,6 @@
 body {
-    color: red;
-}
-
-h1,
-h2,
-h3,
-h4,
-p,
-li {
+    color: #444;
     font-family: sans-serif;
-    /* color: #444; */
 }
 
 h1,
