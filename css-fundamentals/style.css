@@ -124,4 +124,22 @@ a:active {
     font-style: italic;
 }
 
+/* Resolving conflicts */
+#copyright {
+    color: red;
+}
+
+.copyright {
+    color: blue;
+}
+
+.text {
+    color: yellow;
+}   
+
+footer p {
+    color: green;
+}
+
+
 
