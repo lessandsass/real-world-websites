@@ -1,3 +1,7 @@
+body {
+    color: red;
+}
+
 h1,
 h2,
 h3,
@@ -5,7 +9,7 @@ h4,
 p,
 li {
     font-family: sans-serif;
-    color: #444;
+    /* color: #444; */
 }
 
 h1,
