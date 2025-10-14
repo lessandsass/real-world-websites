@@ -55,6 +55,7 @@ p {
 
 li {
     font-size: 20px;
+    margin-bottom: 10px;
 }
 
 /* footer p {
@@ -86,8 +87,6 @@ li {
 .related {
     list-style: none;
 }
-
-
 
 /* .first-li {
     font-weight: bold;
