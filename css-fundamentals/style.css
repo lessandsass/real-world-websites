@@ -9,6 +9,16 @@ body {
     border-top: 10px solid #1098ad;
 }
 
+.main-header {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+aside {
+    background-color: #f7f7f7;
+    border: 5px solid #1098ad;
+}
+
 h1,
 h2,
 h3 {
@@ -74,14 +84,7 @@ li {
     list-style: none;
 }
 
-.main-header {
-    background-color: #f7f7f7;
-}
 
-aside {
-    background-color: #f7f7f7;
-    border: 5px solid #1098ad;
-}
 
 /* .first-li {
     font-weight: bold;
@@ -136,7 +139,7 @@ a:active {
 
 .text {
     color: yellow;
-}   
+}
 
 footer p {
     color: green;
@@ -150,4 +153,3 @@ nav strong {
 nav {
     font-size: 18px;
 }
-
