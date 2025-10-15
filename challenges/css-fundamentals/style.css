@@ -54,8 +54,6 @@ body {
     margin-bottom: 30px;
 }
 
-
-
 /* Links */
 .more-info:link,
 .more-info:visited {
@@ -92,6 +90,9 @@ body {
     border: none;
     text-transform: uppercase;
     cursor: pointer;
+
+    padding: 15px;
+    width: 100%;
 }
 
 .add-cart:hover {
