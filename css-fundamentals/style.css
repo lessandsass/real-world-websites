@@ -77,6 +77,7 @@ p {
     font-size: 22px;
     line-height: 1.5;
     margin-bottom: 15px;
+    display: inline;
 }
 
 ul,
@@ -88,6 +89,7 @@ ol {
 li {
     font-size: 20px;
     margin-bottom: 10px;
+    display: inline;
 }
 
 /* footer p {
@@ -124,18 +126,18 @@ li {
     font-weight: bold;
 } */
 
-li:first-child {
+/* li:first-child {
     font-weight: bold;
-}
+} */
 
 li:last-child {
     font-style: italic;
     margin-bottom: 0;
 }
-
+/* 
 li:nth-child(odd) {
     color: red;
-}
+} */
 
 /* Misconception: This won't work */
 article p:first-child {
@@ -191,9 +193,9 @@ nav strong {
 }
 
 nav a:link {
-    background-color: orangered;
+    /* background-color: orangered;
     margin: 20px;
     padding: 20px;
 
-    display: block;
+    display: block; */
 }
