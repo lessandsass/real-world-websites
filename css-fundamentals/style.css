@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+/* Page sections */
 body {
     color: #444;
     font-family: sans-serif;
@@ -15,12 +16,12 @@ body {
     width: 700px;
     margin: 0 auto;
 }
-    
+
 .main-header {
     background-color: #f7f7f7;
     padding: 20px 40px;
     margin-bottom: 60px;
-    height: 80px;
+    /* height: 80px; */
 }
 
 .post-header {
@@ -42,6 +43,7 @@ aside {
     width: 500px;
 }
 
+/* Smaller elements */
 h1,
 h2,
 h3 {
@@ -186,4 +188,12 @@ nav strong {
 .post-image {
     width: 100%;
     height: auto;
+}
+
+nav a:link {
+    background-color: orangered;
+    margin: 20px;
+    padding: 20px;
+
+    display: block;
 }
