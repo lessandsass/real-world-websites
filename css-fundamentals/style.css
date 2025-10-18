@@ -10,6 +10,7 @@ body {
     font-family: sans-serif;
 
     border-top: 10px solid #1098ad;
+    position: relative;
 }
 
 .container {
@@ -212,6 +213,8 @@ button {
     cursor: pointer;
 
     position: absolute;
-    top: 50px;
-    left: 50px;
+    /* top: 50px;
+    left: 50px; */
+    bottom: 50px;
+    right: 50px;
 }
