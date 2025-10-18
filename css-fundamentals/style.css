@@ -16,8 +16,6 @@ body {
 .container {
     width: 700px;
     margin: 0 auto;
-
-    position: relative;
 }
 
 .main-header {
@@ -28,6 +26,7 @@ body {
 }
 
 .post-header {
+    position: relative;
     margin-bottom: 40px;
 }
 
