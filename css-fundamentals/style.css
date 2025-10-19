@@ -227,6 +227,10 @@ h1::first-letter {
     margin-right: 5px;
 }
 
-P::first-line {
+/* P::first-line {
+    color: red;
+} */
+
+h3 + P::first-line {
     color: red;
 }
