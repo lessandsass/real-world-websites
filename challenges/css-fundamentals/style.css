@@ -50,6 +50,17 @@ body {
     margin-bottom: 20px;
 }
 
+.sale {
+    background-color: #ec2f2f;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 7px 15px;
+
+    display: inline-block;
+}
+
 /* Links */
 .more-info:link,
 .more-info:visited {
