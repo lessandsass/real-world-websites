@@ -227,6 +227,6 @@ h1::first-letter {
     margin-right: 5px;
 }
 
-h2::first-letter {
-    font-size: 80px;
+P::first-line {
+    color: red;
 }
