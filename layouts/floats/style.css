@@ -267,7 +267,7 @@ h2::after {
 
 .author {
     /* padding-left: 80px;   */
-    padding-top: 10px;
     float: left;
+    margin-top: 10px;
     margin-left: 20px;
 }
