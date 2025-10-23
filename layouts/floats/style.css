@@ -262,8 +262,12 @@ h2::after {
 /* FLOATS */
 .author-img {
     float: left;
+    margin-bottom: 20px;
 }
 
 .author {
-    padding-left: 80px;
+    /* padding-left: 80px;   */
+    padding-top: 10px;
+    float: left;
+    margin-left: 20px;
 }
