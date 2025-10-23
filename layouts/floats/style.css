@@ -260,3 +260,10 @@ h2::after {
 } */
 
 /* FLOATS */
+.author-img {
+    float: left;
+}
+
+.author {
+    padding-left: 80px;
+}
