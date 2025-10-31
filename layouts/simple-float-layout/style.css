@@ -288,10 +288,13 @@ nav {
 }
 
 article {
+    background-color: green;
 }
 
 aside {
+    background-color: red;
 }
 
 footer {
+    background-color: yellow;
 }
