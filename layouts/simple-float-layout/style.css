@@ -40,9 +40,11 @@ article {
 
 aside {
     background-color: #f7f7f7;
-    border: 5px solid #1098ad;
+    /* border: 5px solid #1098ad; */
+    border-top: 5px solid #1098ad;
+    border-bottom: 5px solid #1098ad;
     padding: 50px 0;
-    width: 500px;
+    /* width: 500px; */
 }
 
 /* Smaller elements */
@@ -291,11 +293,13 @@ article {
     background-color: green;
     width: 900px;
     /* container width is 1200 = 900 + 300 */
+    float: left;
 }
 
 aside {
     background-color: red;
     width: 300px;
+    float: right;
 }
 
 footer {
