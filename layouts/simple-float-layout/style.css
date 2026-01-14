@@ -289,10 +289,13 @@ nav {
 
 article {
     background-color: green;
+    width: 900px;
+    /* container width is 1200 = 900 + 300 */
 }
 
 aside {
     background-color: red;
+    width: 300px;
 }
 
 footer {
