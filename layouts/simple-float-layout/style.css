@@ -40,11 +40,9 @@ article {
 
 aside {
     background-color: #f7f7f7;
-    /* border: 5px solid #1098ad; */
     border-top: 5px solid #1098ad;
     border-bottom: 5px solid #1098ad;
     padding: 50px 0;
-    /* width: 500px; */
 }
 
 /* Smaller elements */
