@@ -120,6 +120,7 @@ li {
 
 .related {
     list-style: none;
+    margin-left: 0;
 }
 
 /* .first-li {
