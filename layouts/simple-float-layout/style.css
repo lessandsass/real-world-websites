@@ -291,7 +291,7 @@ nav {
 
 article {
     background-color: green;
-    width: 900px;
+    width: 825px;
     /* container width is 1200 = 900 + 300 */
     float: left;
 }
