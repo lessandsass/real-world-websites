@@ -260,13 +260,13 @@ h2::after {
 } */
 
 /* FLOATS */
+/* 
 .author-img {
     float: left;
     margin-bottom: 20px;
 }
 
 .author {
-    /* padding-left: 80px;   */
     float: left;
     margin-top: 10px;
     margin-left: 20px;
@@ -292,7 +292,6 @@ nav {
 
 article {
     width: 825px;
-    /* container width is 1200 = 900 + 300 */
     float: left;
 }
 
@@ -303,4 +302,8 @@ aside {
 
 footer {
     clear: both;
-}
+} */
+
+
+
+
