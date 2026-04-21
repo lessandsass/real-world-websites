@@ -310,4 +310,9 @@ footer {
     justify-content: space-between;
 }
 
+.author-box {
+    display: flex;
+    align-items: center;
+}
+
 
