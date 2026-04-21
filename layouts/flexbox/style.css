@@ -304,6 +304,8 @@ footer {
     clear: both;
 } */
 
-
+.main-header {
+    display: flex;
+}
 
 
