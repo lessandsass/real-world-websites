@@ -203,7 +203,6 @@ nav a:link {
     display: block; */
 
     margin-right: 30px;
-    margin-top: 10px;
     display: inline-block;
 }
 
@@ -304,6 +303,7 @@ footer {
     clear: both;
 } */
 
+/* Flexbox */
 .main-header {
     display: flex;
 }
