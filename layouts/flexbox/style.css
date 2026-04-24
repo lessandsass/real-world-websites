@@ -321,4 +321,9 @@ footer {
     margin-left: 15px;
 }
 
+.related-post {
+    display: flex;
+    align-items: center;
+}
+
 
