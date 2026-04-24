@@ -332,6 +332,8 @@ footer {
     font-size: 17px;
     font-weight: bold;
     font-style: normal;
+    margin-bottom: 5px;
+    display: block;
 }
 
 
