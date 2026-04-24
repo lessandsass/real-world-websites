@@ -328,4 +328,10 @@ footer {
     font-style: italic;
 }
 
+.related-link:link {
+    font-size: 17px;
+    font-weight: bold;
+    font-style: normal;
+}
+
 
