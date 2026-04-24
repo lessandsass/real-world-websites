@@ -340,6 +340,7 @@ footer {
 
 .row {
     display: flex;
+    gap: 75px;
 }
 
 article {   
