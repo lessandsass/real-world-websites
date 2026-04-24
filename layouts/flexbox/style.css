@@ -319,6 +319,7 @@ footer {
 .related-post {
     display: flex;
     align-items: center;
+    gap: 20px;
 }
 
 .related-author {
