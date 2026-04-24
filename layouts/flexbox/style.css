@@ -342,6 +342,19 @@ footer {
     display: flex;
 }
 
+article {   
+    flex: 0 0 825px;
+}
+
+aside {
+    /* 
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    */
+    flex: 0 0 300px;
+}
+
 
 
 
