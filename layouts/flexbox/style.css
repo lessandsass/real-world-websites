@@ -338,4 +338,10 @@ footer {
     display: block;
 }
 
+.row {
+    display: flex;
+}
+
+
+
 
