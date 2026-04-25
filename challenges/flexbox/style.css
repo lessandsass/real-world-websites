@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-/*   background-color: red; */
+    display: flex;
 }
 
 .product-img {
