@@ -112,7 +112,7 @@ body {
 }
 
 .product-colors {
-
+    display: flex;
 }
 
 .color {
