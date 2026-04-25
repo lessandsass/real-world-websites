@@ -20,11 +20,12 @@ body {
 
 .container {
     display: flex;
+    gap: 40px;
 }
 
-.product-img {
+/* .product-img {
   margin-right: 40px;
-}
+} */
 
 /* product */
 .product {
