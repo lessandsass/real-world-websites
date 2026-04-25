@@ -113,13 +113,13 @@ body {
 
 .product-colors {
     display: flex;
+    gap: 10px;
 }
 
 .color {
     background-color: #000;
     height: 22px;
     width: 22px;
-    margin-right: 10px;
 }
 
 .color-blue {
